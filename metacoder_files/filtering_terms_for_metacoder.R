@@ -4,6 +4,9 @@
 #
 # This script generates metacoder trees for a given list of GO terms;
 # See code_notes.pdf for additional info. on functionality
+#
+# Update March 17, 2021: script was previously only run in R v3 and some 
+# required packages may not be compatible with R v4.
 #===========================================================================#
 
 mc <- "https://cran.r-project.org/src/contrib/Archive/metacoder/metacoder_0.1.3.tar.gz"
